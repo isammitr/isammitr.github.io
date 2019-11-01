@@ -50,11 +50,12 @@ var foo = function(x) {
 foo(3)
 ```
 And now my fav- Python code!
-```python
+# ```python
+{% highlight python linenos %}
 def addition_fuction(a, b):
     return a+b  
-    
-```
+{% endhighlight %}
+# ```
 And here is the same code yet again but with line numbers:
 
 {% highlight javascript linenos %}
