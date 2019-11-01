@@ -51,8 +51,8 @@ foo(3)
 ```
 And now my fav- Python code!
 ```python
-  def addition_fuction(a, b):
-      return a+b  
+def addition_fuction(a, b):
+    return a+b  
     
 ```
 And here is the same code yet again but with line numbers:
