@@ -50,7 +50,7 @@ var foo = function(x) {
 foo(3)
 ```
 And now my fav- Python code!
-```
+```python
   def addition_fuction(a, b):
       return a+b  
     
